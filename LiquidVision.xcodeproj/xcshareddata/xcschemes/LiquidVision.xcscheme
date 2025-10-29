@@ -77,7 +77,7 @@
       <EnvironmentVariables>
          <EnvironmentVariable
             key = "AUDIO_LOG_DIRECTORY"
-            value = "$(PROJECT_DIR)"
+            value = "$(PROJECT_DIR)/LiquidVision"
             isEnabled = "YES">
          </EnvironmentVariable>
       </EnvironmentVariables>

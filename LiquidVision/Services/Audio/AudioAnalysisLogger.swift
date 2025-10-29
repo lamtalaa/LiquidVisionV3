@@ -71,12 +71,13 @@ actor AudioAnalysisLogger: AudioAnalysisLogging {
         var directories: [URL] = []
 
         if let overridePath = environment["AUDIO_LOG_DIRECTORY"], overridePath.isEmpty == false {
-            directories.append(URL(fileURLWithPath: overridePath, isDirectory: true))
+        directories.append(URL(fileURLWithPath: overridePath, isDirectory: true))
         }
 
         if let projectDir = environment["PROJECT_DIR"], projectDir.isEmpty == false {
-            directories.append(URL(fileURLWithPath: projectDir, isDirectory: true))
-        }
+            directories.append(URL(fileURLWithPath: projectDir, isDirectory: true)
+                .appendingPathComponent("LiquidVision", isDirectory: true))
+    }
 
         return directories
     }

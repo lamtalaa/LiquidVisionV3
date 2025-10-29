@@ -4,7 +4,7 @@
 LiquidVision started as an image-classification + sentiment mashup. The newest sprint asked: can the same app listen in real time, surface ambient sound insights, and stay 100% on device? Bonus goals: write a traceable analysis log, harden error handling, and drive coverage past 60% without bloating the architecture.
 
 🔧 What I Shipped
-• Audio Analyzer tab that lets you import an .m4a file or stream the mic, transcribes speech with on-device SFSpeechRecognizer, and classifies ambient audio via SoundAnalysis’ built-in models.
+• Audio Analyzer tab that lets you import an audio file or stream the mic, transcribes speech with on-device SFSpeechRecognizer, and classifies ambient audio via SoundAnalysis’ built-in models.
 • Glassmorphism UI that mirrors the Vision/Sentiment tabs, complete with rich live buttons (start glows green, stop pulses red) and realtime confidence bars.
 • Actor-backed logger that persists each session to `analysis_log.json` (documents directory by default, override-able via env var during dev) so QA/support can replay a prediction trail.
 • Unit coverage boost: new suites exercise the logger, audio analyzer view model edge cases (permission denials, logging behavior), file analysis, and coordinator registry while keeping tests async-safe.
