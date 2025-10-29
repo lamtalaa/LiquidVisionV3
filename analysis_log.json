@@ -1,0 +1,162 @@
+[
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.9204677939414978,
+        "identifier" : "speech"
+      },
+      {
+        "confidence" : 0.11579328030347824,
+        "identifier" : "music"
+      },
+      {
+        "confidence" : 0.09484784305095673,
+        "identifier" : "writing"
+      }
+    ],
+    "id" : "047F5537-5AF3-4928-941A-2071EFCF315B",
+    "source" : "file",
+    "timestamp" : 783452778.322296,
+    "transcription" : "My thought I have nobody by a beauty and well as you thought Mr. Rochester is sub and that's so don't find Sims and devoted about to head might"
+  },
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.17280779778957367,
+        "identifier" : "music"
+      },
+      {
+        "confidence" : 0.07188694179058075,
+        "identifier" : "insect"
+      },
+      {
+        "confidence" : 0.07169467210769653,
+        "identifier" : "wind"
+      }
+    ],
+    "id" : "F5120800-B6BB-402A-800F-38700FAF7D2A",
+    "source" : "live",
+    "timestamp" : 783452835.027106,
+    "transcription" : "This is a test"
+  },
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.9204677939414978,
+        "identifier" : "speech"
+      },
+      {
+        "confidence" : 0.11579328030347824,
+        "identifier" : "music"
+      },
+      {
+        "confidence" : 0.09484784305095673,
+        "identifier" : "writing"
+      }
+    ],
+    "id" : "03767EA1-D41A-4B28-998A-2BC0B5D9056F",
+    "source" : "file",
+    "timestamp" : 783453278.418363,
+    "transcription" : "My thought I have nobody by a beauty and well as you thought Mr. Rochester is sub and that's so don't find Sims and devoted about to head might"
+  },
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.9204677939414978,
+        "identifier" : "speech"
+      },
+      {
+        "confidence" : 0.11579328030347824,
+        "identifier" : "music"
+      },
+      {
+        "confidence" : 0.09484784305095673,
+        "identifier" : "writing"
+      }
+    ],
+    "id" : "CEC73476-F786-413F-9012-F0500DE40CE2",
+    "source" : "file",
+    "timestamp" : 783454889.879074,
+    "transcription" : "My thought I have nobody by a beauty and well as you thought Mr. Rochester is sub and that's so don't find Sims and devoted about to head might"
+  },
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.22516895830631256,
+        "identifier" : "door"
+      },
+      {
+        "confidence" : 0.20835945010185242,
+        "identifier" : "door_sliding"
+      },
+      {
+        "confidence" : 0.15231071412563324,
+        "identifier" : "music"
+      }
+    ],
+    "id" : "B3FF7FC6-704D-4BB7-AA83-0553DB7206DA",
+    "source" : "live",
+    "timestamp" : 783456502.28099,
+    "transcription" : ""
+  },
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.1094159185886383,
+        "identifier" : "music"
+      },
+      {
+        "confidence" : 0.08640263229608536,
+        "identifier" : "speech"
+      },
+      {
+        "confidence" : 0.05630773305892944,
+        "identifier" : "wind"
+      }
+    ],
+    "id" : "768C8456-3E7C-460A-A74C-479A69CDF6AE",
+    "source" : "live",
+    "timestamp" : 783456574.552396,
+    "transcription" : ""
+  },
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.9204677939414978,
+        "identifier" : "speech"
+      },
+      {
+        "confidence" : 0.11579328030347824,
+        "identifier" : "music"
+      },
+      {
+        "confidence" : 0.09484784305095673,
+        "identifier" : "writing"
+      }
+    ],
+    "id" : "D99A6B49-E917-4B8C-B0F4-53CADC4580BA",
+    "source" : "file",
+    "timestamp" : 783456589.255426,
+    "transcription" : "My thought I have nobody by a beauty and well as you thought Mr. Rochester is sub and that's so don't find Sims and devoted about to head might"
+  },
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.21715354919433594,
+        "identifier" : "music"
+      },
+      {
+        "confidence" : 0.19360293447971344,
+        "identifier" : "speech"
+      },
+      {
+        "confidence" : 0.10154379904270172,
+        "identifier" : "wind_instrument"
+      }
+    ],
+    "id" : "5854789F-19AE-48E4-9CE8-E60E2A66CA74",
+    "source" : "live",
+    "timestamp" : 783456599.385749,
+    "transcription" : ""
+  }
+]
